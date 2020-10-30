@@ -2,6 +2,8 @@
 
 A server running on Windows Machine connected to printer.
 
+`PDFtoPrinter.exe` binary is from [http://www.columbia.edu/~em36/pdftoprinter.html](http://www.columbia.edu/~em36/pdftoprinter.html)
+
 ## 1. Requirements
 
 1. pandoc
