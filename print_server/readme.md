@@ -1,4 +1,4 @@
-# print_server
+# Print Server
 
 A server running on Windows Machine connected to printer.
 
@@ -8,6 +8,7 @@ A server running on Windows Machine connected to printer.
 2. miktex
 3. php
 
+All these requirements can be installed by `choco install`.
 
 ## 2. Configure
 
